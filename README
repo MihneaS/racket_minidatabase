@@ -1,0 +1,19 @@
+conform enuntului
+" Rezultatul acestei operații [simple-selection]  este o listă care conține
+valorile extrase pentru fiecare coloană indicată. Pentru fiecare coloană
+rezultatele sunt reținute într-o listă. În concluzie, rezultatul este o listă
+care conține n liste, unde n reprezintă numărul de coloane din lista columns. "
+
+Cum imi organizez baza de date?
+Data de baze este o lista de tabele.
+Ce este o tabela?
+Este o lista in care primul element este numele tabelei si restul elementelor
+sunt coloane.
+Ce este o coloana?
+Asemanator unei tabele, este o lista in care primul element este numele
+coloanei, iar restul elementelor sunt valorile coloanei
+
+
+mentionez ca functia fand a fost preluata din raspunsul lui Alx v din https://stackoverflow.com/questions/387775/using-and-with-the-apply-function-in-scheme
+
+mentionez ca functia zip a fost preluata din raspunsul lui alinsoar din https://stackoverflow.com/questions/21688944/zip-function-in-racket-scheme
